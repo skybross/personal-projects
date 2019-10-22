@@ -1,0 +1,4 @@
+1. Add repl loop
+2. Compute summary statistics
+3. Write output to text files
+4. Refactor code to take test version as input. Then only maintenance needed will be adding new exam cases.
